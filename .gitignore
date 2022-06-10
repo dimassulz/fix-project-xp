@@ -1,0 +1,6 @@
+.env
+.dccache
+composer.lock
+/vendor
+/phpdocker/mariadb
+README.MD
